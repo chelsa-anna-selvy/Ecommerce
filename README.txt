@@ -1,0 +1,3 @@
+superuser
+username: ecommerceadmin
+password: mypassword1234
